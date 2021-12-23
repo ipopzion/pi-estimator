@@ -13,3 +13,7 @@ One such method is the random generation of points on a cartesian plane.
 Through the generation of random numbers ranged 0 to 1, we can generate points with x and y coordinates distributed between 0 and 1.
 Since the point has equal probability to land anywhere within a 1 by 1 box, the number of dots landing within a specific area should correspond to the size of the area. 
 Given a large enough sample, the ratio of the dots within and without the quadrant will sufficiently estimate the ratio between the two areas, thereby allowing us to estimate the value of pi. 
+
+# sample result 
+![image](https://user-images.githubusercontent.com/80518234/147243732-2468d210-e89c-4d07-8a20-6aed904000a4.png)
+![image](https://user-images.githubusercontent.com/80518234/147243913-84f8df22-819c-4b7f-b488-ce9ae8aeb6cd.png)
